@@ -1,8 +1,0 @@
----
-template: post
-title: Ramblings on a Sunday Night 
----
-
-p. So I spent my entire Sunday setting up this blog and it turns out I have nothing interesting to say, ironic eh?
-Anyways, the blog is based on Jekyll - the Ruby based "blog-aware, static site generator." The setup wasn't bad at all surprisingly, and the majority of my time was spent attempting to make the templates look decent with CSS; I've honestly been meaning to try out SASS for the longest time but that probably would have taken at least another day worth of work for, in all likelihood, very similar results. I guess the best part of all this is that I can now write posts in Vim, which is nice to say the least. To be honest though, I really should be refining the site layout instead of writing this post, it looks horrible. Maybe tomorrow. I also finally got blog.adamallidina.com working (embarrassingly enough, I had no idea  sub-domains are not able to point to different nameservers than the base domain). 
-On another note, I've been meaning to mess around with backbone.js for the longest time. My actual plan for today was to setup a test webapp using backbone.js but     
